@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Set a page title -->
+  <title>Fine Art</title>
+
+  <!-- Site Styles -->
+  <link rel="stylesheet" href="/css/tachyons.min.css">
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+
+<body class="pa5 bg-corgi">
+
+
+  <div class="relative bg-corgi h4">
+    <div class="f1 absolute flex items-center justify-center top-0 bottom-0 w-100">
+      <h2 class="tc name fw1 ma0">ZIMENG</h2>
+    </div>
+
+    <div class="absolute flex items-center justify-center top-0 bottom-0 w-100">
+      NEHHHHHHHH
+    </div>
+  </div>
+
+
+  <div class="grid">
+    <!-- button 1 -->
+    <div class="tc">
+      <p>
+        <a href="/index.html">
+          << BACK </a>
+      </p>
+
+    </div>
+    <!-- button 2 -->
+    <div class="tc">
+      <p>
+        <a href="/movie.html">Duh</a>
+      </p>
+    </div>
+    <!-- button 3 -->
+    <div class="tc">
+      <p>
+        <a href="/movie.html">Haa</a>
+      </p>
+
+      <div class="overlay tc">
+        <p>
+          <!-- how about that</p> -->
+      </div>
+    </div>
+
+    <div>
+      <img src="girl.jpg" alt="girl">
+    </div>
+
+    <div>
+      <img class="tc" src="back.jpg" alt="back">
+    </div>
+
+    <div>
+      <img src="dhruv.jpg" alt="dhruv">
+    </div>
+
+    <div class="grid">
+      <a href="#" style="background-image: url(girl.jpg);
+      class=" link mw5 dt hide-child br2 cover bg-center ">
+    <span class="white dtc child bg-black-40 pa5 ">
+    NEH
+    </span>
+    </a>
+    </div>
+
+
+
+    <!-- Site JavaScript -->
+    <script src="/javascript/toggleClass.js " charset="utf-8 "></script>
+    <script src="/javascript/main.js " charset="utf-8 "></script>
+</body>
+
+</html>
